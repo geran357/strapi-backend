@@ -76,6 +76,7 @@ $RECYCLE.BIN/
 nbproject
 .eslintcache
 
+.env    
 ############################
 # Node.js
 ############################
@@ -160,3 +161,6 @@ examples/**/types/generated
 
 # Ignore yarn.lock inside templates
 templates/yarn.lock
+
+
+.strapi
