@@ -163,4 +163,4 @@ examples/**/types/generated
 templates/yarn.lock
 
 
-.strapi
+.strapi/
